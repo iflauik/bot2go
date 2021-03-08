@@ -131,3 +131,5 @@ dmypy.json
 # Editor Configurations
 .vscode/
 .idea/
+*.iml
+
